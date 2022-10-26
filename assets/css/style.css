@@ -103,7 +103,7 @@ p {
     max-width: 150px;
 }
 
-/* Grouped texts with same style */ 
+/* Grouped texts with same style under .section */ 
 .section {
     margin-bottom: 20px;
     padding: 50px;
